@@ -3,8 +3,8 @@ Manifesto do Time de Desenvolvimento E5R
 
 > "Porque não desenvolver software com qualidade, se podemos?"
 
-Este repositório contém os documentos legais, tais como [licenças][LICENSES.md],
-[código de conduta][CODE_OF_CONDUCT.md], [manual de contribuição][CONTRIBUTING.md],
+Este repositório contém os documentos legais, tais como [licenças](LICENSES.md),
+[código de conduta](CODE_OF_CONDUCT.md), [manual de contribuição](CONTRIBUTING.md),
 entre outros que são referenciados dos vários projetos que o time desenvolve.
 
 E também o **MANIFESTO E5R** que é um contrato onde todo membro do **Time E5R** deve
