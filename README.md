@@ -3,7 +3,7 @@ Manifesto do Time de Desenvolvimento E5R
 
 > "Porque não desenvolver software com qualidade, se podemos?"
 
-Este repositório contém os documentos legais, tais como licenças, código de condulta,
+Este repositório contém os documentos legais, tais como licenças, código de conduta,
 manual de contribuição, entre outros que são referenciados dos vários projetos que
 o time desenvolve.
 
