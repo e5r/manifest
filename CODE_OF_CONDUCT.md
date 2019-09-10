@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-The code of conduct is based on the principles of the [E5R Manifest](https://e5r.tools/manifest).
+The code of conduct is based on the principles of the [E5R Manifest](README.md).
 
 ## Our Pledge
 
